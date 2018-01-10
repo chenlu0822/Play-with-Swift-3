@@ -1,10 +1,16 @@
----
+## 重要更新
+
+由于个人时间原因，这个Swift3代码仓没有更新完毕。我只更新了第一季的内容。不过！
+
+**感谢 [@JeffreyW2947](https://github.com/JeffreyWang2864) 同学！这是一位正在美国读高中的计算机天才，将我的这个课程的所有内容都基于最新的 Swift 4 语言进行了更新，传送门：[**Play with Swift 4**](https://github.com/JeffreyWang2864/Play-with-Swift-3)**
 
 对swift感兴趣的同学，欢迎加我的个人微信：**liuyubobobo**（头像和github一致），一起加入swift微信群讨论：）请注明：**swift交流**
 
 --- 
 
-##Play with Swift 3 - 玩儿转 Swift 3 （Swift2课程升级代码）
+**以下内容为原课程swift3代码，已停止更新。**
+
+## Play with Swift 3 - 玩儿转 Swift 3 （Swift2课程升级代码）
 
 Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.imooc.com/comment/635) on [**imooc.com**](http://www.imooc.com), one of the toppest MOOC website in China. The course is about the basics for Swift2. But in this repo, I updated all the demo code in this course for **Swift3**! If you find any bug, or have any suggestion, even brilliant ideas which can make this course better, please contact me:)
 
@@ -28,9 +34,13 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
 
 **知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
 
+**个人公众号：是不是很酷**
+
+![QRCode](qrcode.jpg)
+
 ---
 
-##Catalogue - 课程目录 
+## Catalogue - 课程目录 
 
 中文版课程目录在英文版目录后，直接[点击这里](https://github.com/liuyubobobo/Play-with-Swift-3#第一季)查看中文目录
 
@@ -198,6 +208,7 @@ Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.im
 特别感谢以下github用户，帮助完善了这个课程的代码：
 
 * [marderary](https://github.com/marderary)
+* [JeffreyWang2864](https://github.com/JeffreyWang2864)
 
 最后，感谢这个时代。
 
